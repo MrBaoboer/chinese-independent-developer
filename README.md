@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 11 号添加
+
+#### ethanjamescolez - [Github](https://github.com/ethanjamescolez)
+* :white_check_mark: [AI YouTube Transcript](https://aiyoutubetranscript.com/)：无需注册的 YouTube 转录工具，可搜索 transcript、跳转时间戳，并导出 TXT、SRT、VTT
+
 ### 2026 年 7 月 10 号添加
 
 #### kasslly - [Github](https://github.com/kasslly)

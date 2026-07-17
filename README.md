@@ -24,6 +24,9 @@
 
 ## 3. 项目列表
 ### 2026 年 7 月 17 号添加
+#### Mutx163 - [Github](https://github.com/Mutx163)
+* :white_check_mark: [轻屿课表](https://mutx.ccwu.cc)：Android 校园课表 App，深度对接 HyperOS 超级岛与焦点通知，支持 100+ 高校教务导入、情侣课表、WebDAV 云同步与桌面小组件，免费开源无广告 - [查看仓库](https://github.com/Mutx163/mikcb)
+
 #### Fangyuan025 - [Github](https://github.com/Fangyuan025)
 * :white_check_mark: [Chaty](https://chaty.ca)：本地 AI 助手桌面应用（Windows / macOS），大模型在自己电脑上运行，无需 API Key、数据不联网；内置模型商店一键下载开源模型，聊天、识图、语音通话、文档知识库、编程智能体全部离线可用 - [查看仓库](https://github.com/Fangyuan025/Chaty)
 

@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 7 月 21 号添加
+
+#### DevEloLin - [Github](https://github.com/DevEloLin)
+* :white_check_mark: [EloGames](https://games.elolin.com)：打开浏览器直接玩的独立小游戏合集，免下载、免注册
+
 ### 2026 年 7 月 18 号添加
 
 #### Shuiwuhen(杭州) - [Github](https://github.com/290713469)
